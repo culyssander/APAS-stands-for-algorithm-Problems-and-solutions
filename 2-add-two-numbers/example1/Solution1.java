@@ -34,7 +34,6 @@ public class Solution1 {
 
     public static LinkedList addTwoNumbers(LinkedList l1, LinkedList l2) {
         LinkedList curr = new LinkedList();
-        LinkedList p = l1, q = l2;
 
         int carry = 0;
 

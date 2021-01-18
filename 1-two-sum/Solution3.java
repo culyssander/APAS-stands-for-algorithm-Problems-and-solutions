@@ -11,7 +11,7 @@
 import java.util.Map;
 import java.util.HashMap;
 
-public class Solution3 {
+public class Solution3 { 
 
     public static void main(String[]args) {
         int [] nums = new int [4];

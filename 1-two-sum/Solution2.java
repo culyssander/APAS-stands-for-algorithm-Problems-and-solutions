@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class Solution2 {
-
+ 
     public static void main(String[]args) {
         int [] nums = new int [4];
 

@@ -1,6 +1,6 @@
 
 public class LinkedList {
-    Node head;
+    Node head; 
     int size;
 
 

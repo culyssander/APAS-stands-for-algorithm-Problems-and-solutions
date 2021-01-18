@@ -16,7 +16,7 @@ public class ListaLigada {
     public void setPrimeiro(Elemento primeiro) {
         this.primeiro = primeiro;
     }
-
+ 
     public Elemento getUltimo() {
         return this.ultimo;
     }

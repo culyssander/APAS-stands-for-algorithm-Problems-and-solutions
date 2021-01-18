@@ -13,7 +13,7 @@ public class Test2 {
 
         list.deleteWithValue(3);
         list.deleteWithValue(2);
-
+ 
         System.out.println(list);
         System.out.println(list.size);
 

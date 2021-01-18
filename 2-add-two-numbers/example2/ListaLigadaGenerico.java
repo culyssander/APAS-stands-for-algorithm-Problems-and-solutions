@@ -20,7 +20,7 @@ public class ListaLigadaGenerico<T> {
     public ElementoGenerico<T> getUltimo() {
         return this.ultimo;
     }
-
+ 
     public void setUltimo(ElementoGenerico<T> ultimo) {
         this.ultimo = ultimo;
     }

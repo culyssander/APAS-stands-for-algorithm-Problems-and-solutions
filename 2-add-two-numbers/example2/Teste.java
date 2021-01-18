@@ -21,7 +21,7 @@ public class Teste {
 
         System.out.println(lista.tamanho());
         System.out.println(lista);
-
+ 
         System.out.println(lista.get(3).getValor());
 
         lista.remover("Ferreira");

@@ -7,4 +7,4 @@ public class Cliente {
     public String toString() {
         return "[nome: " + nome + ", Email: " + email; 
     }
-}
+} 

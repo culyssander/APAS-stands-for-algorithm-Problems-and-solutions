@@ -23,5 +23,5 @@ public class Elemento {
     public void setProximo(Elemento proximo) {
         this.proximo = proximo;
     }
-
+ 
 }

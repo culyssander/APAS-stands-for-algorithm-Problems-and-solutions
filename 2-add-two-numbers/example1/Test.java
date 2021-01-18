@@ -7,7 +7,7 @@ public class Test {
         System.out.println(node.next);
 
         node.next = new Node(4);
-        
+         
         System.out.println(node.next.data);
 
         System.out.println(node.next.next);
